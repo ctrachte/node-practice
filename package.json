@@ -12,6 +12,7 @@
   "author": "caleb trachte",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "jshint": "^2.9.5"
   }
 }
